@@ -4,7 +4,7 @@
         <description><![CDATA[goldsbrough]]></description>
         <link>https://thegrid.ai/goldsbrough/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 09:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 09:41:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/goldsbrough/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Most visited page]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/goldsbrough/most-visited-page/index.html</link>
             <guid isPermaLink="false">04591652-7ff9-4703-aa81-c6a9247f3247</guid>
             <pubDate>Tue, 15 Dec 2015 09:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Most visited page on my company website]]></title>
-            <description><![CDATA[<article><h1>Most visited page on my company website</h1><p>http://goldsbrough.biz/wp-content/uploads/scales.jpg</p></article>]]></description>
-            <link>https://thegrid.ai/goldsbrough/most-visited-page-on-my-company-website/index.html</link>
-            <guid isPermaLink="false">d6be51b0-d361-4f09-aa8a-5ca12cc74bab</guid>
-            <pubDate>Tue, 15 Dec 2015 09:36:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
