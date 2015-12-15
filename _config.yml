@@ -1,0 +1,28 @@
+name: goldsbrough
+favicon: null
+layout_spectrum: 0.23981627449393272
+typography_spectrum: 0.04231316829100251
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2454181183129549
+  lightness: 0.3358201503288001
+  saturation: 0.42377592041157186
+  rhythmicContrast: 0.5896740360185504
+purpose: []
