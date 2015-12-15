@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[goldsbrough]]></title>
+        <description><![CDATA[goldsbrough]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Dec 2015 09:19:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Most visited page on my company website]]></title>
+            <description><![CDATA[<article><h1>Most visited page on my company website</h1><p>This is the most visited page on my company website. It seems that people are keen to read simple explanations of often used and misused business terminology.</p></article>]]></description>
+            <link>undefinedmost-visited-page-on-my-company-website/index.html</link>
+            <guid isPermaLink="false">d6be51b0-d361-4f09-aa8a-5ca12cc74bab</guid>
+            <pubDate>Tue, 15 Dec 2015 09:19:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
